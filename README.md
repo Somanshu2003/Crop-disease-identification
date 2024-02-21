@@ -1,6 +1,6 @@
 
 
-# Readme file for the provided code
+# Readme file
 
 This code appears to be a machine learning project using the Keras library for image classification, specifically using the VGG19 architecture. Here is a breakdown of the code:
 
